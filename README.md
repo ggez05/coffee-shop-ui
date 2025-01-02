@@ -1,4 +1,7 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+## Animated landing page for a coffee shop.
+
+![image](https://github.com/user-attachments/assets/f21eec98-9de7-41f0-9c60-943bf4d253b9)
+
 
 ## Getting Started
 
